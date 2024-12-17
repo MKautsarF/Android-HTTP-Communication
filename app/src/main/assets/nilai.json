@@ -1,0 +1,407 @@
+{
+  "train_type": "KRL",
+  "waktu_mulai": "11.15",
+  "waktu_selesai": "11.15",
+  "durasi": "15 detik",
+  "tanggal": "06/12/2023",
+  "nama_crew": "Trainee 3",
+  "kedudukan": "Staff",
+  "usia": "0 tahun",
+  "kode_kedinasan": "41",
+  "no_ka": "9041",
+  "lintas": "Depo Lebak Bulus - Stasiun Bundaran HI",
+  "nama_instruktur": "Instructor",
+  "keterangan": "tes 123",
+  "penilaian": [
+    {
+      "unit": 1,
+      "judul": "",
+      "disable": false,
+      "data": [
+        {
+          "no": 1,
+          "langkah_kerja": "Mempersiapkan peralatan, bahan, dan dokumen dinasan",
+          "poin": [
+            {
+              "observasi": "Menyiapkan peralatan berupa suling mulut, arloji dan senter, prosedur operasi standar (SOP) dan form terkait.",
+              "nilai": 53
+            },
+            {
+              "observasi": "Memeriksa dan membaca dengan teliti O.82, O.100, B.93, B.94.",
+              "nilai": 96
+            },
+            {
+              "observasi": "Mencatat taspat yang ada pada lintas dinasan",
+              "nilai": 78
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "langkah_kerja": "Memeriksa rangka bawah dan kabin masinis pada lokomotif",
+          "poin": [
+            {
+              "observasi": "Alat perangkai",
+              "nilai": 52
+            },
+            {
+              "observasi": "Rantai pengaman",
+              "nilai": 85
+            },
+            {
+              "observasi": "Posisi dan ketebalan blok rem",
+              "nilai": 58
+            },
+            {
+              "observasi": "Langkah torak silinder rem",
+              "nilai": 35
+            },
+            {
+              "observasi": "Keutuhan pegas pendukung",
+              "nilai": 74
+            },
+            {
+              "observasi": "Ketersediaan bahan bakar",
+              "nilai": 36
+            },
+            {
+              "observasi": "Kebersihan Lokomotif\n",
+              "nilai": 84
+            },
+            {
+              "observasi": "Tekanan minyak pelumas (1,1 Kg/cm2 = 16 Psi)",
+              "nilai": 32
+            },
+            {
+              "observasi": "Tekanan bahan bakar (2,8 Kg/cm2 = 40 Psi)",
+              "nilai": 83
+            },
+            {
+              "observasi": "Tekanan Turbo (0 Psi kondisi lok idle)",
+              "nilai": 83
+            },
+            {
+              "observasi": "Tekanan udara tangki penyeimbang/ER = Equalizing Reservoir (5 kg/cm2,= 70 Psi)",
+              "nilai": 89
+            },
+            {
+              "observasi": "Tekanan udara saluran pipa pengereman rangkaian/BP = Brake Pipe (5 kg/cm2, = 70 Psi)",
+              "nilai": 96
+            },
+            {
+              "observasi": "Tekanan udara saluran pipa pengereman lokomotif/BC = Brake Cylinder (3,2kg/cm2=45 Psi)",
+              "nilai": 76
+            },
+            {
+              "observasi": "Tekanan udara tangki induk/MR=Main Reservoir (125-140 Psi)",
+              "nilai": 76
+            },
+            {
+              "observasi": "Kedudukan motor cut out (MCO) harus 6 TM",
+              "nilai": 70
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "langkah_kerja": "Memeriksa kelengkapan inventaris dan fungsi go no go item pada lokomotif.",
+          "poin": [
+            {
+              "observasi": "4 (empat) buah stop blok;",
+              "nilai": 55
+            },
+            {
+              "observasi": "2 (dua) buah bendera merah;",
+              "nilai": 79
+            },
+            {
+              "observasi": "1 (satu) buah bendera kuning;",
+              "nilai": 81
+            },
+            {
+              "observasi": "2 (dua) keeping papan skip merah;",
+              "nilai": 93
+            },
+            {
+              "observasi": "1 (satu) buah pemadam api (APAR);",
+              "nilai": 72
+            },
+            {
+              "observasi": "1 (satu) set radio rangkaian, dan",
+              "nilai": 90
+            },
+            {
+              "observasi": "Kartu riwayat lokomotif (diisi oleh dipo pemeliharaan dan dipo perbaikan)",
+              "nilai": 52
+            },
+            {
+              "observasi": "Pembersih kaca (wiper)",
+              "nilai": 48
+            },
+            {
+              "observasi": "Lampu sorot (Head Light)",
+              "nilai": 90
+            },
+            {
+              "observasi": "Lampu kabin masinis",
+              "nilai": 59
+            },
+            {
+              "observasi": "Suling Lokomotif (Horn)",
+              "nilai": 67
+            },
+            {
+              "observasi": "Deadman device",
+              "nilai": 89
+            },
+            {
+              "observasi": "Radio Lokomotif",
+              "nilai": 75
+            },
+            {
+              "observasi": "Pengukur kecepatan (Speedometer)",
+              "nilai": 36
+            },
+            {
+              "observasi": "Pengganjal roda (Stop Block)",
+              "nilai": 69
+            },
+            {
+              "observasi": "APAR",
+              "nilai": 73
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "langkah_kerja": "Melakukan perangkaian Lokomotif dengan Kereta/Gerbong",
+          "poin": [
+            {
+              "observasi": "Automatic Coupler dalam keadaan baik",
+              "nilai": 73
+            },
+            {
+              "observasi": "Sambungan selang udara lokomotif dengan rangkaian dalam keadaan baik",
+              "nilai": 98
+            },
+            {
+              "observasi": "Sambungan rantai lokomotif dengan rangkaian dalam keadaan baik",
+              "nilai": 99
+            }
+          ]
+        },
+        {
+          "no": 5,
+          "langkah_kerja": "Melakukan percobaan pengereman setelah dirangkai",
+          "poin": [
+            {
+              "observasi": "Menggunakan Rem Pelayanan (Automatic Brake) untuk Rem Statis",
+              "nilai": 86
+            },
+            {
+              "observasi": "Tekanan udara paling belakang rangkaian (S.21) (4,8-5,2 Psi) dan harus sama pada indicator tekanan Lokomotif dibawah pengawasan masinis/asisten masinis untuk Rem Statis",
+              "nilai": 82
+            },
+            {
+              "observasi": "Periksa blok rem pada rangkaian berfungsi dengan baik untuk Rem Statis",
+              "nilai": 75
+            },
+            {
+              "observasi": "Menggunakan rem pelayanan (Automatic Brake) full sevice untuk Rem Dinamis",
+              "nilai": 90
+            },
+            {
+              "observasi": "Independent Brake keadaan release untuk Rem Dinamis",
+              "nilai": 68
+            },
+            {
+              "observasi": "Masukkan Throttle Maks notch 3 Lok DE, 950 rpm Lok DH untuk Rem Dinamis",
+              "nilai": 83
+            },
+            {
+              "observasi": "Pastikan tidak ada gerakan untuk Rem Dinamis",
+              "nilai": 74
+            }
+          ]
+        },
+        {
+          "no": 6,
+          "langkah_kerja": "Melakukan kegiatan awal keberangkatan Kereta Api",
+          "poin": [
+            {
+              "observasi": "Semboyan 40 (PPKA/PAP)",
+              "nilai": 92
+            },
+            {
+              "observasi": "Semboyan 41 (Kondektur)",
+              "nilai": 78
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Semboyan yang diberikan benar berlaku baginya;",
+              "nilai": 59
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Jalur yang akan dilalui tidak terhalang;",
+              "nilai": 57
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Wesel diarah yang benar (tunjuk sebut);",
+              "nilai": 78
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Lawan persilangan (jika ada) telah masuk lengkap dengan semboyan 21 dan tidak memasang semboyan 31 (tunjuk sebut);",
+              "nilai": 94
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Sinyal keluar telah berindikasi aman (tunjuk sebut);",
+              "nilai": 64
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Masinis/asisten masinis membunyikan semboyan 35;\n",
+              "nilai": 96
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Masinis menggerakan kereta api tanpa hentakan;",
+              "nilai": 90
+            },
+            {
+              "observasi": "Memperhatikan dan meyakinkan bahwa Melakukan pengereman dinamis sebelum wesel keluar tanpa memberhentikan kereta api.",
+              "nilai": 73
+            }
+          ]
+        },
+        {
+          "no": 7,
+          "langkah_kerja": "Melakukan kegiatan selama perjalanan Kereta Api",
+          "poin": [
+            {
+              "observasi": "Tunjuk sebut (semboyan, taspat);",
+              "nilai": 60
+            },
+            {
+              "observasi": "Memperhatikan indikator-indikator pada lokomotif;\n",
+              "nilai": 92
+            },
+            {
+              "observasi": "Melihat semboyan 21 saat melewati lengkungan;",
+              "nilai": 84
+            },
+            {
+              "observasi": "Percobaan pengereman dinamis tiap 30 menit;",
+              "nilai": 56
+            },
+            {
+              "observasi": "Memperhatikan O.100 (table KA);",
+              "nilai": 50
+            },
+            {
+              "observasi": "Taktis Masinis/Asisten Masinis;",
+              "nilai": 35
+            }
+          ]
+        },
+        {
+          "no": 8,
+          "langkah_kerja": "Melaksakan Tanggap Darurat (kondisi darurat)",
+          "poin": [
+            {
+              "observasi": "Memberhentikan KA ketika Tertemper",
+              "nilai": 87
+            },
+            {
+              "observasi": "Lapor kepada PK (No KA, Petak jalan, bentuk kejadian) ketika Tertemper",
+              "nilai": 53
+            },
+            {
+              "observasi": "Pengecekan terhadap sarana ketika Tertemper",
+              "nilai": 75
+            },
+            {
+              "observasi": "Memberhentikan KA di stasiun terdekat dan membuat KDLB / B.94 ketika Tertemper",
+              "nilai": 96
+            },
+            {
+              "observasi": "Memberhentikan KA ketika Anjlok",
+              "nilai": 92
+            },
+            {
+              "observasi": "Lapor kepada PK (No KA, Petak jalan, bentuk kejadian) ketika Anjlok",
+              "nilai": 76
+            },
+            {
+              "observasi": "Memberikan semboyan 3 di depan dan belakang rangkaian KA dengan jarak 100 meter, apabila lengkung jarak 600 meter atau sampai terlihat KA lain ketika Anjlok",
+              "nilai": 84
+            },
+            {
+              "observasi": "Fungsikan rem pelayanan dan rem independent ketika Anjlok",
+              "nilai": 60
+            },
+            {
+              "observasi": "Menggunakan Stop block (pengganjal roda) ketika Anjlok",
+              "nilai": 81
+            }
+          ]
+        },
+        {
+          "no": 9,
+          "langkah_kerja": "Melakukan kegiatan akhir dinasan kereta api",
+          "poin": [
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun antara: Posisi throttle handle (gagang tenaga) idle atau 0 untuk Masinis/asisten masinis",
+              "nilai": 72
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun antara: Posisi reverse handle (gagang pembalik arah) neutral dan dilepas untuk Masinis/asisten masinis",
+              "nilai": 57
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun antara: Posisi Independent brake and automatic brake mengikat untuk Masinis/asisten masinis",
+              "nilai": 92
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun antara: Masinis/asisten masinis tidak diperbolehkan meninggalkan lokomotif untuk Masinis/asisten masinis",
+              "nilai": 91
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun antara: Menjaga kebersihan lokomotif untuk Masinis/asisten masinis",
+              "nilai": 49
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Posisi throttle handle (gagang tenaga) idle atau 0;",
+              "nilai": 63
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Posisi reverse handle (gagang pembalik arah) neutral dan dilepas;",
+              "nilai": 60
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Posisi Independent brake and automatic brake mengikat;",
+              "nilai": 75
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Serah terima lokomotif dan T 200 kepada PUL serta penyampaian secara lisan selama perjalanan perihal teknis lokomotif;",
+              "nilai": 72
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Menjaga kebersihan kabin lokomotif;",
+              "nilai": 82
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Menyerahkan lapka dan table kereta api kepada JPAK/Penyelia serta penyampaian secara lisan selama dalam perjalanan;",
+              "nilai": 91
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: Masinis/asisten masinis melihat dinasan esok hari dan pengumuman-pengumuman dikantor JPAK/Penyelia dan diperbolehkan istirahat dan pulang;",
+              "nilai": 60
+            },
+            {
+              "observasi": "Kegiatan akhir dinasan kereta api di stasiun akhir: PUL melangsir lokomotif ke dipo yang dipandu oleh juru langsir dan menyerahkan T 200 ke pihak dipo.",
+              "nilai": 74
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "nilai_akhir": 0
+}
